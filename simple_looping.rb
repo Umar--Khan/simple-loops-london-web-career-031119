@@ -36,6 +36,7 @@ def while_iterator(number_of_times)
   while counter <= 7
     puts phrase
     counter += 1
+  end
 end
 
 def until_iterator(number_of_times)
